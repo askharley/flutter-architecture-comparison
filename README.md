@@ -1,16 +1,13 @@
 # flutter_architecture_comparison
 
-A new Flutter project.
+This project is used to demostrate the most simple implementation of 4 architectural patterns that could be used to manage the state of your Flutter application.
 
-## Getting Started
+Those patterns are: Vanilla, Scoped Model, BLoC and Provider.
 
-This project is a starting point for a Flutter application.
+## Inspirations
 
-A few resources to get you started if this is your first Flutter project:
+I did a lot of research when putting this together and below are some people way smarter than myself who can explain anything much better than I ever could.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- [felangel](https://github.com/felangel)
+- [FilledStacks](https://github.com/FilledStacks)
+- [Vadims Savjolovs](https://github.com/savjolovs)
