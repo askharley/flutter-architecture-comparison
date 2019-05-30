@@ -8,6 +8,6 @@ Those patterns are: Vanilla, Scoped Model, BLoC and Provider.
 
 I did a lot of research when putting this together and below are some people way smarter than myself who can explain anything much better than I ever could.
 
-- [felangel](https://github.com/felangel)
-- [FilledStacks](https://github.com/FilledStacks)
+- [Felix Angelov](https://github.com/felangel)
+- [Dane Mackier](https://github.com/FilledStacks)
 - [Vadims Savjolovs](https://github.com/savjolovs)
